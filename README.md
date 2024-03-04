@@ -8,6 +8,8 @@ The proliferation of digital banking has significantly increased the sophisticat
 
 ### Transaction Amount Distribution
 ![Picture1](https://github.com/Vishwabhadiyadara/Leveraging-Data-Mining-Techniques-for-Enhanced-Bank-Account-Fraud-Detection-/assets/110348340/c4fac918-0c85-4144-9bbc-7660eb571a50)
+![Picture4](https://github.com/Vishwabhadiyadara/Leveraging-Data-Mining-Techniques-for-Enhanced-Bank-Account-Fraud-Detection-/assets/110348340/7042bd8e-ec89-43ca-b8b1-b34ba65ecbb2)
+
 
 ### ROC Curve Analysis
 ![Picture3](https://github.com/Vishwabhadiyadara/Leveraging-Data-Mining-Techniques-for-Enhanced-Bank-Account-Fraud-Detection-/assets/110348340/3990e328-115d-426c-a30b-a2f44495f56f)
