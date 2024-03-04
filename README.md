@@ -7,13 +7,10 @@ The proliferation of digital banking has significantly increased the sophisticat
 ## Graphs
 
 ### Transaction Amount Distribution
-![Transaction Amount Distribution](https://github.com/[YourUsername]/Bank-Fraud-Detection/assets/transaction_amount_distribution.png)
-
-### Model Performance Metrics
-![Model Performance Metrics](https://github.com/[YourUsername]/Bank-Fraud-Detection/assets/model_performance_metrics.png)
+![Picture1](https://github.com/Vishwabhadiyadara/Leveraging-Data-Mining-Techniques-for-Enhanced-Bank-Account-Fraud-Detection-/assets/110348340/c4fac918-0c85-4144-9bbc-7660eb571a50)
 
 ### ROC Curve Analysis
-![ROC Curve Analysis](https://github.com/[YourUsername]/Bank-Fraud-Detection/assets/roc_curve_analysis.png)
+![Picture3](https://github.com/Vishwabhadiyadara/Leveraging-Data-Mining-Techniques-for-Enhanced-Bank-Account-Fraud-Detection-/assets/110348340/3990e328-115d-426c-a30b-a2f44495f56f)
 
 ## Goals
 
